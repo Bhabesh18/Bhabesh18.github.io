@@ -1,0 +1,268 @@
+body{
+    background-image: linear-gradient(to bottom right, rgb(22, 129, 172), rgb(74, 76, 219));
+}
+.nav{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 5px 8px #888888;
+    width: 1100px;
+    height: 78px;
+    position: relative;
+    left: 60px;
+    background-color: aliceblue;
+}
+.nav-img{
+    width: 160px;
+    height: 100px;
+    position: relative;
+    top: -11px;
+    left: -11px;
+}
+.nav a{
+    font-size:x-large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color:blueviolet;
+    padding: 14px 20px;
+    position: relative;
+    top: -50px;
+    left: 200px;
+}
+.card{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 5px 8px #888888;
+    width: 900px;
+    height: 380px;
+    position: relative;
+    top: 30px;
+    left: 170px;
+    background-color: aliceblue;
+}
+.card-heading{
+    font-size: 95px;
+    font-weight: bolder;
+    position: relative;
+    left: 40px;
+}
+.img{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    top: -246px;
+    left: 410px;  
+}
+.card-1{
+    width: 890px;
+    height: 180px;
+    position: relative;
+    top: 30px;
+    left: 170px;
+    background-color: black;
+    color: aliceblue;
+}
+.heading-1{
+    color: aqua;
+    position: relative;
+    top: 35px;
+    left: 70px;
+    font-size: xx-large;
+}
+.content-1{
+    position: relative;
+    top: 10px;
+    left: 70px;
+    font-size: larger;
+}
+.card-2{
+    width: 890px;
+    height: 100px;
+    position: relative;
+    top: 30px;
+    left: 170px;
+    background-color: black;
+    color: aliceblue;
+}
+.heading-2{
+    color: aqua;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    font-size: xx-large;
+}
+.content-2{
+    position: relative;
+    top: -10px;
+    left: 20px;
+    font-size: larger;
+}
+.card-3{
+    width: 930px;
+    height: 578px;
+    position: relative;
+    top: 50px;
+    left: 170px;
+    background-color: black;
+}
+.img-1{
+    width: 270px;
+    height: 170px;
+    position: relative;
+    top: 60px;
+    left: 40px;
+}
+.card-3 h1{
+    color: aqua;
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
+.content-3{
+    color: aliceblue;
+    position: relative;
+    top: 10px;
+    left: 48px;
+    font-size: larger;
+}
+.content-4{
+    color: aliceblue;
+    font-size: x-large;
+    font-weight: bolder;
+    position: relative;
+    top: -10px;
+    left: 48px;
+}
+.btn-1{
+    height: 40px;
+    background-color: blue;
+    color: aliceblue;
+    border: 3px ridge grey;
+    font-size: larger;
+    position: relative;
+    top: 30px;
+    left: 110px;
+    cursor: pointer;
+}
+.btn-2{
+    height: 40px;
+    background-color: blue;
+    color: aliceblue;
+    border: 3px groove grey;
+    font-size: larger;
+    position: relative;
+    top: 30px;
+    left: 220px;
+    cursor: pointer;
+}
+.link{
+    color: aliceblue;
+    position: relative;
+    top: 150px;
+    left: -208px;
+    font-size: larger;
+    font-weight: bold;
+}
+.link-1{
+    color: rgb(12, 1, 1);
+    position: relative;
+    top: 80px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.link-1 a{
+    color: black;
+}
+.footer{
+    background-color: black;
+    height: 250px;
+    position: relative;
+    top: 30px;
+}
+.footer-heading1{
+    color: aqua;
+    position: relative;
+    top: 20px;
+    left: 100px;
+}
+.foot-link1{
+    color: blue;
+    font-size: large;
+    position: relative;
+    top: 15px;
+    left: 150px;
+    text-decoration: none;
+}
+.foot-link2{
+    color: blue;
+    font-size: large;
+    position: relative;
+    top: 40px;
+    left: 102px;
+    text-decoration: none;
+}
+.foot-link3{
+    color: blue;
+    font-size: large;
+    position: relative;
+    top: 65px;
+    left: 34px;
+    text-decoration: none;
+}
+.footer-heading2{
+    color: aqua;
+    position: relative;
+    top: -80px;
+    left: 500px;
+}
+.foot-link4{
+    color: blue;
+    font-size: large;
+    position: relative;
+    top: -85px;
+    left: 604px;
+    text-decoration: none;
+}
+.footer-heading3{
+    color: aqua;
+    position: relative;
+    top: -176px;
+    left: 1050px;
+}
+.foot-link5{
+    color: blue;
+    font-size: large;
+    position: relative;
+    top: -226px;
+    left: 1054px;
+    text-decoration: none;
+}
+.logo1{
+    width: 50px;
+    height: 45px;
+}
+.footer button{
+    background-color: black;
+    width: 50px;
+    border-color: black;
+    position: relative;
+    top: -100px;
+    left: 450px;
+}
+.footer button:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+.logo2{
+    width: 50px;
+    height: 45px;
+}
+.logo3{
+    width: 50px;
+    height: 45px;
+}
+.logo4{
+    width: 50px;
+    height: 45px;
+}
